@@ -1,0 +1,2 @@
+version=4
+https://github.com/dsoprea/PyInotify/tags (?:.*?/)?(\d[\d\.]*)\.tar\.gz

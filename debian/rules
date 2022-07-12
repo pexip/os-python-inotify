@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+
+export PYBUILD_NAME=python-inotify
+export PYBUILD_TEST_ARGS=-k 'not test__cycle'
+
+%:
+	dh $@ --with python3 --buildsystem=pybuild
