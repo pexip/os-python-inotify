@@ -1,0 +1,10 @@
+/lib/
+/bin/
+/include/
+/inotify.egg-info/
+/.Python
+/build
+/dist
+*.pyc
+/vagrant/.vagrant
+.DS_Store
