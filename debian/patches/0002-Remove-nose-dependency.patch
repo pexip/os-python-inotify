@@ -1,0 +1,15 @@
+From: =?utf-8?q?Timo_R=C3=B6hling?= <roehling@debian.org>
+Date: Thu, 15 Dec 2022 12:06:55 +0100
+Subject: Remove nose dependency
+
+---
+ inotify/resources/requirements.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/inotify/resources/requirements.txt b/inotify/resources/requirements.txt
+index f3c7e8e..792d600 100644
+--- a/inotify/resources/requirements.txt
++++ b/inotify/resources/requirements.txt
+@@ -1 +1 @@
+-nose
++#
