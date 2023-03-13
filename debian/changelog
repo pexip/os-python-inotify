@@ -1,3 +1,9 @@
+python-inotify (0.2.10-4pexip1) pexip; urgency=medium
+
+  * New upstream release
+
+ -- Huw Jones <huw@pexip.com>  Mon, 13 Mar 2023 16:59:08 +0000
+
 python-inotify (0.2.10-4) unstable; urgency=medium
 
   * Team upload.
