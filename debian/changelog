@@ -1,3 +1,19 @@
+python-inotify (0.2.10-4) unstable; urgency=medium
+
+  * Team upload.
+  * Rerun flaky tests multiple times (Closes: #1030493)
+  * Bump Standards-Version to 4.6.2
+
+ -- Timo Röhling <roehling@debian.org>  Mon, 06 Feb 2023 17:14:56 +0100
+
+python-inotify (0.2.10-3) unstable; urgency=medium
+
+  * Team upload.
+  * Remove nose depend (not needed)
+  * Remove non-existing Suggests
+
+ -- Timo Röhling <roehling@debian.org>  Thu, 15 Dec 2022 12:04:53 +0100
+
 python-inotify (0.2.10-2pexip3) pexip; urgency=medium
 
   * Don't install dep on nose

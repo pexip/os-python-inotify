@@ -1,7 +1,7 @@
 #!/usr/bin/make -f
 
 export PYBUILD_NAME=python-inotify
-export PYBUILD_TEST_ARGS=-k 'not test__cycle'
+export PYBUILD_TEST_ARGS=-k 'not test__cycle' --reruns 3 --reruns-delay 1
 
 %:
 	dh $@ --with python3 --buildsystem=pybuild

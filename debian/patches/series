@@ -1,2 +1,2 @@
 IN_ISDIR-is-subordinate-to-IN_CREATE.patch
-remove-dep-nose.patch
+0002-Remove-nose-dependency.patch
