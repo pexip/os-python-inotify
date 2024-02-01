@@ -1,3 +1,9 @@
+python-inotify (0.2.10-4+pexip24u5) pexip-bookworm; urgency=medium
+
+  * New versioning scheme
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Thu, 01 Feb 2024 16:22:47 +0000
+
 python-inotify (0.2.10-4pexip4) pexip-bookworm; urgency=medium
 
   * Bookworm build for product distribution
