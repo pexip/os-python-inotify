@@ -1,3 +1,9 @@
+python-inotify (0.2.10-5) unstable; urgency=medium
+
+  * Replace removed assertEquals with assertEqual (Closes: #1058339)
+
+ -- Bastian Germann <bage@debian.org>  Tue, 12 Dec 2023 11:29:37 +0100
+
 python-inotify (0.2.10-4+pexip24u5) pexip-bookworm; urgency=medium
 
   * New versioning scheme

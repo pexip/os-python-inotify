@@ -1,2 +1,3 @@
 IN_ISDIR-is-subordinate-to-IN_CREATE.patch
 0002-Remove-nose-dependency.patch
+assertEqual.patch
