@@ -1,3 +1,9 @@
+python-inotify (0.2.10-5+pexip25u1) pexip-trixie; urgency=medium
+
+  * Initial trixie build
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Tue, 29 Apr 2025 22:54:06 +0100
+
 python-inotify (0.2.10-5) unstable; urgency=medium
 
   * Replace removed assertEquals with assertEqual (Closes: #1058339)
